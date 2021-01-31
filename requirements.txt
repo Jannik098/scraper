@@ -1,0 +1,45 @@
+atomicwrites==1.4.0
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
+bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///C:/ci/cffi_1606255208697/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+constantly==15.1.0
+cryptography @ file:///C:/ci/cryptography_1607637849569/work
+cssselect==1.1.0
+hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
+idna @ file:///tmp/build/80754af9/idna_1609784788857/work
+incremental==17.5.0
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+itemadapter @ file:///tmp/build/80754af9/itemadapter_1605069490748/work
+lxml @ file:///C:/ci/lxml_1606498900999/work
+more-itertools @ file:///tmp/build/80754af9/more-itertools_1605111547926/work
+packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
+parsel==1.5.2
+pluggy==0.13.1
+py @ file:///tmp/build/80754af9/py_1607971587848/work
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyDispatcher==2.0.5
+PyHamcrest @ file:///tmp/build/80754af9/pyhamcrest_1594390921726/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+pytest==6.2.2
+pytest-runner @ file:///home/linux1/recipes/ci/pytest-runner_1610986971179/work
+pywin32==227
+queuelib==1.5.0
+Scrapy @ file:///C:/ci/scrapy_1606864804541/work
+selenium==3.141.0
+service-identity @ file:///tmp/build/80754af9/service_identity_1592494375577/work
+six @ file:///C:/ci/six_1605187374963/work
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+Twisted==20.3.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1611694770489/work
+w3lib==1.21.0
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+zope.interface @ file:///C:/ci/zope.interface_1606940376312/work
