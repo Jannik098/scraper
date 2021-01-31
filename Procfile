@@ -1,1 +1,1 @@
-worker: python scaper.py 
+worker: python scraper.py 
